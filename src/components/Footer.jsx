@@ -68,7 +68,7 @@ const Footer = () => {
       <div className="bg-[#003825] py-4">
         <div className="container mx-auto px-4 flex flex-col sm:flex-row justify-between items-center text-sm">
           <p className="mb-2 sm:mb-0 text-center sm:text-left">
-            &copy; 2023 Betahouse | Designed by Michaelifig
+            &copy; 2023 Betahouse | Designed by Adenuga Emmanuel
           </p>
           <a href="#" className="hover:underline">Privacy Policy</a>
         </div>
